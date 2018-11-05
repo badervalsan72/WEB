@@ -1,0 +1,14 @@
+web:
+-home
+-horarios
+-mensajes
+-contactos? puede ser. 
+
+
+en horarios:
+	hacer una subview para cada horario posible? 
+		ejemplo: lista de destinos en /horarios, 
+			 y luego en /horarios/Colonia mostrar
+			 los de la colonia? puede ser, debería 
+			 buscar otros sitios de horarios para
+			 ver cómo se ve mejor. 
